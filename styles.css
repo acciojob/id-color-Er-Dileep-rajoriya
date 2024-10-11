@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+#yellow {
+    background-color: yellow; /* Set background color to yellow */
+    border: 1px solid green; /* Set border width to 1px and color to green */
+    padding: 10px; /* Optional: Add padding for better appearance */
+}
+
+#red {
+    background-color: red; /* Set background color to red */
+    border: 1px solid black; /* Set border width to 1px and color to black */
+    padding: 10px; /* Optional: Add padding for better appearance */
+}
+
+#green {
+    background-color: green; /* Set background color to green */
+    border: 1px solid yellow; /* Set border width to 1px and color to yellow */
+    padding: 10px; /* Optional: Add padding for better appearance */
+}
